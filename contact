@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kontakt - Murdaside</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Kontakt</h1>
+</header>
+
+<nav class="menu">
+    <a href="index.html">Home</a>
+    <a href="preise.html">Preise</a>
+    <a href="kontakt.html" class="active">Kontakt</a>
+</nav>
+
+<section class="content">
+    <h2>Support</h2>
+    <p>Discord: <strong>deinname#0000</strong></p>
+    <p>Email: <strong>example@gmail.com</strong></p>
+</section>
+
+<footer>
+    <p>© 2025 Murdaside</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
