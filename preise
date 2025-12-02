@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Preise - Murdaside</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Preisliste</h1>
+</header>
+
+<nav class="menu">
+    <a href="index.html">Home</a>
+    <a href="preise.html" class="active">Preise</a>
+    <a href="kontakt.html">Kontakt</a>
+</nav>
+
+<section class="content">
+    <h2>Produkte</h2>
+
+    <div class="card">
+        <h3>Custom Name</h3>
+        <p>Preis: 5€</p>
+        <button class="buy-btn">Kaufen</button>
+    </div>
+
+    <div class="card">
+        <h3>Custom Outfit</h3>
+        <p>Preis: 10€</p>
+        <button class="buy-btn">Kaufen</button>
+    </div>
+
+</section>
+
+<footer>
+    <p>© 2025 Murdaside</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
